@@ -2,3 +2,4 @@ git status
 git add .
 git commit
 git push
+Añado el comando git pull
